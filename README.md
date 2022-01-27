@@ -5,7 +5,7 @@ Proyecto construido mediante Maven, desarrollado con el lenguaje Java y el patro
 Para la persistencia de los objetos se utilizo Hibernate. Estos objetos son almacenados en una base de datos MySQL.
 La inyeccion de dependicias se realizo mediante Spring.
 
-Funcionalidades:
+Funcionalidades principales: 
 *Registrar alumno
 *Registrar curso
 *Listar alumnos
